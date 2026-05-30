@@ -1,108 +1,165 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Saurabh+%F0%9F%91%8B;Backend+%26+SDE+Engineer;Building+things+that+scale" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/saurabh-pramanik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/saurabh-pramanik">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<!-- CAPSULE HEADER with animated wave + gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saurabh%20Pramanik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20Open%20to%20Hire&descAlignY=58&descSize=18&descColor=a78bfa" />
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+scalable+backend+systems+%F0%9F%9A%80;200%2B+DSA+problems+%26+counting+%F0%9F%A7%A0;C%2B%2B+%7C+Node.js+%7C+PostgreSQL+%7C+Redis;Let%27s+build+something+together+%F0%9F%A4%9D" alt="Typing SVG" />
+
+<br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=saurabh-pramanik&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/saurabh-pramanik?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)
+
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=saurabh-pramanik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed" />
 
-```yaml
-name: Saurabh Pramanik
-location: Noida, Uttar Pradesh, India
-education: B.Tech Computer Science @ JIIT Noida (2022–2026)
-focus: Backend Engineering · Distributed Systems · DSA
-currently: Open to SDE / Backend roles — let's connect!
-fun_fact: Building an Indo-Western music band called "Nirvana" 🎸
+### 🧑‍🚀 About Me
+
+```typescript
+const saurabh = {
+  location  : "Noida, UP, India 🇮🇳",
+  education : "B.Tech CS @ JIIT (2022–26)",
+  role      : "SDE / Backend Engineer",
+  stack     : ["C++", "Node.js", "React", "PostgreSQL", "Redis"],
+  dsa       : "200+ problems (LeetCode · GFG · HackerRank)",
+  research  : "IEEE paper on QENN stock prediction",
+  hobbies   : ["Guitar 🎸", "Singing 🎤", "Philosophy 📖"],
+  band      : "Co-founding 'Nirvana' — Indo-Western fusion",
+  status    : "🟢 Open to opportunities"
+};
 ```
 
+<br clear="right"/>
+
 ---
 
-### 🛠️ Tech Stack
+### ⚡ Tech Arsenal
+
+<div align="center">
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark&perline=8)](https://skillicons.dev)
 
 **Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,redis,prisma,graphql&theme=dark&perline=8)](https://skillicons.dev)
 
 **Frontend & Tools**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,html,css,git,github,vscode,linux&theme=dark&perline=8)](https://skillicons.dev)
+
+**ML / Research**
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,py&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
+### 🔥 Featured Projects
 
-#### 🖥️ [CollabCode](https://github.com/saurabh-pramanik/collabcode)
-> Real-time collaborative code editor with multi-user sync
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-- Built with **React**, **Node.js**, **Socket.io**, and **Monaco Editor**
-- Supports live cursor tracking, room-based sessions, and multi-language execution
-- Designed for low-latency sync with WebSocket event architecture
+**🖥️ CollabCode**
+> Real-time collaborative code editor
 
-#### 🔗 [Distributed URL Shortener](https://github.com/saurabh-pramanik/url-shortener)
-> Scalable URL shortening service with caching and analytics
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-- Stack: **Node.js**, **PostgreSQL**, **Redis**, **Prisma**
-- Redis-based caching layer reduces DB hits significantly
-- Built for horizontal scalability with clean REST API design
+- Live multi-user cursors & room sessions
+- Monaco Editor integration
+- Low-latency WebSocket event architecture
 
-#### 📈 [QENN — Quantum Elman Neural Network](https://github.com/saurabh-pramanik/qenn)
-> Stock market prediction using quantum-classical hybrid ML
+[![View Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabh-pramanik/collabcode)
 
-- Implemented with **Qiskit** and **Q#**, combining quantum circuits with Elman RNN
-- Benchmarked against classical ENN across 6 stock datasets
-- Research paper co-authored — submitted to IEEE
+</td>
+<td width="50%">
+
+**🔗 Distributed URL Shortener**
+> Scalable shortener with Redis caching
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+
+- Redis cache layer for high-throughput reads
+- Prisma ORM with clean REST API
+- Built for horizontal scalability
+
+[![View Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabh-pramanik/url-shortener)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**📈 QENN — Quantum Elman Neural Network** *(IEEE Research)*
+> Hybrid quantum-classical ML model for stock market prediction
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+Benchmarked quantum-enhanced Elman RNN vs classical ENN across **6 stock datasets** using NMSE metrics — co-authored with Pavitra Sharma, Yashraj Jadam under Dr. Himanshu Agrawal
+
+[![View Paper](https://img.shields.io/badge/IEEE_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://github.com/saurabh-pramanik/qenn)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh-pramanik&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-pramanik&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
+<div align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-pramanik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh-pramanik&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh-pramanik&theme=github-dark-blue&hide_border=true" />
-</p>
+<br/>
 
----
-
-### 🌱 Currently
-
-- 🔍 Actively looking for **SDE / Backend Engineer** roles
-- 📚 Deepening knowledge in **distributed systems** and **system design**
-- 🎸 Jamming on guitar and co-founding **Nirvana** — an Indo-Western fusion band
+<!-- ACTIVITY GRAPH -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh-pramanik&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" />
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurabh-pramanik&color=58a6ff&style=flat-square&label=Profile+Views" />
-</p>
+<!-- SNAKE ANIMATION — enable by adding GitHub Action (see below) -->
+<div align="center">
 
-<p align="center"><i>"Code like a poet, scale like an engineer."</i></p>
+### 🐍 Eating My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saurabh-pramanik/saurabh-pramanik/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saurabh-pramanik/saurabh-pramanik/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/saurabh-pramanik/saurabh-pramanik/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+
+</div>
+
+<!-- CAPSULE FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
