@@ -1,28 +1,34 @@
 <div align="center">
 
-<!-- CAPSULE HEADER with animated wave + gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saurabh%20Pramanik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULLSTACK%20DEVELOPER%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saurabh%20Pramanik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20Open%20to%20Hire&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+scalable+backend+systems+%F0%9F%9A%80;200%2B+DSA+problems+%26+counting+%F0%9F%A7%A0;C%2B%2B+%7C+Node.js+%7C+PostgreSQL+%7C+Redis;Let%27s+build+something+together+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Building+scalable+backend+systems+%F0%9F%9A%80;200%2B+DSA+problems+%26+counting+%F0%9F%A7%A0;C%2B%2B+%7C+Node.js+%7C+PostgreSQL+%7C+Redis;Guitar+%F0%9F%8E%B8+%7C+Philosophy+%F0%9F%93%96+%7C+Music+%F0%9F%8E%A4;Let%27s+build+something+awesome+%F0%9F%A4%9D" />
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Saurabh-Code88&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Saurabh-Code88?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)
 
+</div>
 
-### 🧑‍🚀 About Me
+---
+
+<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=Saurabh-Code88&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed" />
+
+### 🧑‍💻 About Me
 
 ```typescript
 const saurabh = {
-  location  : "Noida, UP, India 🇮🇳",
-  education : "B.Tech CS @ JIIT (2022–26)",
+  name      : "Saurabh Pramanik",
+  location  : "Noida, UP 🇮🇳  ← originally Ranchi",
+  education : "B.Tech CS @ JIIT Noida  (2022 – 2026)",
   role      : "SDE / Backend Engineer",
   stack     : ["C++", "Node.js", "React", "PostgreSQL", "Redis"],
-  dsa       : "200+ problems (LeetCode · GFG · HackerRank)",
-  research  : "IEEE paper on QENN stock prediction",
-  hobbies   : ["Guitar 🎸", "Singing 🎤", "Philosophy 📖"],
-  band      : "Co-founding 'Nirvana' — Indo-Western fusion",
-  status    : "🟢 Open to opportunities"
+  dsa       : "200+ problems — LeetCode · GFG · HackerRank",
+  research  : "IEEE paper — Quantum ENN vs Classical ENN",
+  passion   : "Guitar 🎸  Singing 🎤  Philosophy 📖",
+  building  : "'Nirvana' — Indo-Western fusion band",
+  status    : "🟢  Actively looking for SDE / Backend roles",
 };
 ```
 
@@ -36,20 +42,28 @@ const saurabh = {
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark)](https://skillicons.dev)
 
 **Backend & Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,redis,prisma,graphql&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,redis,prisma,graphql&theme=dark)](https://skillicons.dev)
 
 **Frontend & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,html,css,git,github,vscode,linux&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,vite,html,css,git,github,vscode,linux&theme=dark)](https://skillicons.dev)
 
 **ML / Research**
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,py&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,python&theme=dark)](https://skillicons.dev)
 
+</div>
+
+---
+
+### 🚗 Driving Through Contributions
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/main/car-animation.svg" />
 </div>
 
 ---
@@ -69,10 +83,10 @@ const saurabh = {
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 - Live multi-user cursors & room sessions
-- Monaco Editor integration
+- Monaco Editor with multi-language support
 - Low-latency WebSocket event architecture
 
-[![View Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabh-pramanik/collabcode)
+[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saurabh-Code88/collabcode)
 
 </td>
 <td width="50%">
@@ -85,10 +99,10 @@ const saurabh = {
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
 
 - Redis cache layer for high-throughput reads
-- Prisma ORM with clean REST API
+- Prisma ORM with clean REST API design
 - Built for horizontal scalability
 
-[![View Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabh-pramanik/url-shortener)
+[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saurabh-Code88/url-shortener)
 
 </td>
 </tr>
@@ -96,15 +110,15 @@ const saurabh = {
 <td colspan="2">
 
 **📈 QENN — Quantum Elman Neural Network** *(IEEE Research)*
-> Hybrid quantum-classical ML model for stock market prediction
+> Hybrid quantum-classical ML for stock market prediction
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![React](https://img.shields.io/badge/React+Recharts-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-Benchmarked quantum-enhanced Elman RNN vs classical ENN across **6 stock datasets** using NMSE metrics — co-authored with Pavitra Sharma, Yashraj Jadam under Dr. Himanshu Agrawal
+Benchmarked QENN (Qiskit + Q#) vs Classical ENN across **6 global stock indices** — built the React+Recharts dashboard deployed on Vercel. Co-authored with Yashraj Jadam & Pavitra Sharma.
 
-[![View Paper](https://img.shields.io/badge/IEEE_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://github.com/saurabh-pramanik/qenn)
+[![Paper](https://img.shields.io/badge/IEEE_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://github.com/Saurabh-Code88/qenn)
 
 </td>
 </tr>
@@ -116,28 +130,24 @@ Benchmarked quantum-enhanced Elman RNN vs classical ENN across **6 stock dataset
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Code88&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-Code88&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Code88&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-Code88&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
 </div>
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Code88&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Code88&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution+Activity" />
 
 ---
 
-<!-- SNAKE ANIMATION — enable by adding GitHub Action (see below) -->
+### 🐍 Snake Eating My Contributions
+
 <div align="center">
-
-### 🐍 Eating My Contributions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
 </div>
 
 ---
@@ -146,12 +156,11 @@ Benchmarked quantum-enhanced Elman RNN vs classical ENN across **6 stock dataset
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
 
 </div>
 
-<!-- CAPSULE FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
