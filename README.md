@@ -124,14 +124,14 @@ Benchmarked quantum-enhanced Elman RNN vs classical ENN across **6 stock dataset
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-pramanik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh-pramanik&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Code88&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-Code88&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
 </div>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh-pramanik&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Code88&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" />
 
 ---
 
@@ -141,9 +141,9 @@ Benchmarked quantum-enhanced Elman RNN vs classical ENN across **6 stock dataset
 ### 🐍 Eating My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saurabh-pramanik/saurabh-pramanik/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saurabh-pramanik/saurabh-pramanik/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/saurabh-pramanik/saurabh-pramanik/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
