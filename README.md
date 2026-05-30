@@ -1,22 +1,14 @@
 <div align="center">
 
 <!-- CAPSULE HEADER with animated wave + gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saurabh%20Pramanik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20Open%20to%20Hire&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saurabh%20Pramanik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULLSTACK%20DEVELOPER%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+scalable+backend+systems+%F0%9F%9A%80;200%2B+DSA+problems+%26+counting+%F0%9F%A7%A0;C%2B%2B+%7C+Node.js+%7C+PostgreSQL+%7C+Redis;Let%27s+build+something+together+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=saurabh-pramanik&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/saurabh-pramanik?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)
 
-</div>
-
----
-
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=saurabh-pramanik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed" />
 
 ### 🧑‍🚀 About Me
 
