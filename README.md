@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saurabh%20Pramanik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20AI%20|ML%20%E2%80%A2%20Build%20To%20Change&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saurabh%20Pramanik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20AI/%20ML%20%E2%80%A2%20Build%20To%20Change&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Building+scalable+backend+systems+%F0%9F%9A%80;200%2B+DSA+problems+%26+counting+%F0%9F%A7%A0;C%2B%2B+%7C+Node.js+%7C+PostgreSQL+%7C+Redis;Guitar+%F0%9F%8E%B8+%7C+Philosophy+%F0%9F%93%96+%7C+Music+%F0%9F%8E%A4;Let%27s+build+something+awesome+%F0%9F%A4%9D" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Building+scalable+backend+systems+%F0%9F%9A%80;200%2B+DSA+problems+%26+counting+%F0%9F%A7%A0;C%2B%2B+%7C+Node.js+%7C+PostgreSQL+%7C+Redis;Let%27s+build+something+awesome+%F0%9F%A4%9D" />
 
 <br/>
 
