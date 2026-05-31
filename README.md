@@ -247,7 +247,7 @@ Goal:
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/" target="_blank">
+<a href="https://leetcode.com/u/PRAMANIKSAURABH/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="54"/>
 </a>
 &nbsp;&nbsp;&nbsp;
