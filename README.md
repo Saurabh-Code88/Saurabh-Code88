@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a1a,60:000d1a,100:000000&height=280&section=header&text=SAURABH%20PRAMANIK&fontSize=62&fontColor=00fff5&animation=twinkling&fontAlignY=40&stroke=00fff5&strokeWidth=2&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Quantum%20Researcher&descAlignY=60&descSize=16&descColor=9ca3af" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a1a,60:000d1a,100:000000&height=280&section=header&text=SAURABH%20PRAMANIK&fontSize=62&fontColor=00fff5&animation=twinkling&fontAlignY=40&stroke=00fff5&strokeWidth=2&desc=Fullstack%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Build%20To%20Change&descAlignY=60&descSize=16&descColor=9ca3af" />
 
 </div>
 
@@ -24,30 +24,16 @@
 
 ## `> cat about.txt`
 
-```ansi
-╔══════════════════════════════════════════════════════════════════╗
-║              SYSTEM BOOT — SAURABH.EXE v2025.12                 ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  [ INIT ] Loading identity...                                    ║
-║  [ ████████████████████░░░░ ] 82%                                ║
-║                                                                  ║
-║  NAME      : Saurabh Pramanik                                    ║
-║  ROLE      : Final Year B.Tech CSE @ JIIT Noida (2022-26)        ║
-║  MISSION   : Build systems that don't fall apart at 3am          ║
-║  RESEARCH  : Quantum Elman Neural Networks (IEEE)                ║
-║  SIDE QUEST: Indo-Western fusion band "Nirvana" 🎸               ║
-║                                                                  ║
-║  [ CORE TRAITS ]                                                 ║
-║  → Thinks in systems, ships in sprints                           ║
-║  → Obsessed with async queues, cache layers & clean APIs         ║
-║  → Reads philosophy between debugging sessions                   ║
-║  → Will talk your ear off about distributed systems at 2am       ║
-║                                                                  ║
-║  [ STATUS ] : Actively seeking SDE / Backend Engineer roles      ║
-║  [ SIGNAL ] : saurabh.work85@gmail.com                           ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+```
+  Name     Saurabh Pramanik
+  Role     B.Tech CSE @ JIIT Noida  ·  2022 – 2026
+  Focus    Backend systems · Distributed infra · Applied AI
+  Research Quantum Elman Neural Networks  →  IEEE (under review)
+  Other    Band "Nirvana" 🎸  ·  Guitar  ·  Philosophy
+
+  I build things that hold up under pressure.
+  Currently open to SDE / Backend Engineer roles.
+  → saurabh.work85@gmail.com
 ```
 
 ---
@@ -215,15 +201,17 @@ status:  ⟳ Under Review → IEEE Publication
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Code88&bg_color=0d0d0d&color=00fff5&line=00fff5&point=f59e0b&area=true&area_color=00fff510&hide_border=true&custom_title=COMMIT+FREQUENCY+%2F%2F+2024-2025&radius=8"/>
+<!-- 🏎️ CAR RACE TRACK — replaces the snake animation -->
+<img width="100%" src="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/output/github-contribution-grid-snake-dark.svg" style="display:none"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Code88&bg_color=0d0d0d&color=00fff5&line=00fff5&point=f59e0b&area=true&area_color=00fff510&hide_border=true&custom_title=%F0%9F%8F%8E%EF%B8%8F+COMMIT+RACE+TRACK+%2F%2F+2024-2025&radius=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Code88&bg_color=0d0d0d&color=00fff5&line=00fff5&point=f59e0b&area=true&area_color=00fff510&hide_border=true&custom_title=%F0%9F%8F%8E%EF%B8%8F+COMMIT+RACE+TRACK+%2F%2F+2024-2025&radius=8" width="100%"/>
+</picture>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://img.shields.io/badge/🏁_RACE_STATS-commits_per_month-0d0d0d?style=flat-square&labelColor=0d0d0d&color=00fff5"/>
 
 <br/><br/>
 
