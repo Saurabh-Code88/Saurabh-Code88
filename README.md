@@ -9,7 +9,7 @@
 </td>
 <td width="45%" align="center" valign="center">
 
-<img src="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/main/assets/oogway.gif" width="220"/>
+<img src="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/main/assets/oogway1.gif" width="220"/>
 
 </td>
 </tr>
