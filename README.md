@@ -3,7 +3,7 @@
 <tr>
 <td width="80%" valign="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0500,30:1a0a00,60:2a1200,100:0d0500&height=280&section=header&text=Saurabh%20Pramanik&fontSize=62&fontColor=e8a045&animation=twinkling&fontAlignY=45&stroke=c47a20&strokeWidth=2&desc=Fullstack%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20&descAlignY=68&descSize=16&descColor=a07040"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0500,30:1a0a00,60:2a1200,100:0d0500&height=280&section=header&text=Saurabh%20Pramanik&fontSize=62&fontColor=e8a045&animation=twinkling&fontAlignY=45&stroke=c47a20&strokeWidth=2&desc=Fullstack%20Engineer%20%E2%80%A2%20AI%2FML&descAlignY=68&descSize=16&descColor=a07040"/>
 
 </td>
 <td width="40%" align="center" valign="center">
@@ -19,8 +19,8 @@
 </div>
 
 ---
-
-## `> about`
+<div align="left">
+## `> About`
 
 ```
   Name     Saurabh Pramanik
@@ -30,9 +30,10 @@
   Contact  saurabh.work85@gmail.com
 ```
 
+</div>
 ---
 
-## `tech_stack`
+## `Tech_stack`
 
 <div align="center">
 <BR>
@@ -56,14 +57,14 @@
 
 ---
 
-## `projects`
+## `Projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <div align="center">
 
-### `ghostapply/`
+### `ghostapply`
 **Agentic Job Engine**
 
 ![Node.js](https://img.shields.io/badge/Node.js-e8a045?style=flat-square&logo=nodedotjs&logoColor=1a0a00)
@@ -87,7 +88,7 @@ Autonomous job search engine that scrapes, ranks, and applies.
 <td width="50%" valign="top">
 <div align="center">
 
-### `kritique/`
+### `kritique`
 **AI Code Review Platform**
 
 ![Node.js](https://img.shields.io/badge/Node.js-e8a045?style=flat-square&logo=nodedotjs&logoColor=1a0a00)
@@ -112,7 +113,7 @@ Async AI-powered code review with real-time streaming.
 <td width="50%" valign="top">
 <div align="center">
 
-### `collabcode/`
+### `collabcode`
 **Real-Time Collaborative Editor**
 
 ![Yjs](https://img.shields.io/badge/Yjs_CRDT-e8a045?style=flat-square&logoColor=1a0a00)
@@ -136,7 +137,7 @@ Collaborative coding environment with conflict-free sync.
 <td width="50%" valign="top">
 <div align="center">
 
-### `url-shortener/`
+### `url-shortener`
 **Distributed URL Shortener**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-e8a045?style=flat-square&logo=postgresql&logoColor=1a0a00)
@@ -163,7 +164,7 @@ Cache-first distributed URL shortener at scale.
 
 ## `research`
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/IEEE_PUBLICATION-UNDER_REVIEW-e8a045?style=for-the-badge&labelColor=1a0a00"/>
 
