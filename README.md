@@ -26,18 +26,18 @@
 
 <div align="center">
 <BR>
-[ LANGUAGES ]
+ Languages
 </BR>
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark&perline=8"/>
-
-[ BACKEND · DATABASE · INFRA ]
+<br>
+Backend · Database 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,prisma,docker&theme=dark&perline=8"/>
 
-[ FRONTEND · TOOLING ]
+Frontend · Tools 
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,git,linux,vscode&theme=dark&perline=8"/>
 
-[ AI · QUANTUM ]
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=8"/>
+AI · ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas&theme=dark&perline=8"/>
 
 </div>
 
