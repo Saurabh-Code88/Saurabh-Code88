@@ -6,7 +6,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FFF5&center=true&vCenter=true&random=false&width=700&height=56&lines=%24+whoami+--verbose;%5B+OK+%5D+Backend+Engineer+%7C+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;%5B+OK+%5D+200%2B+DSA+Problems+Solved+%E2%9C%94;%5B+OK+%5D+IEEE+Quantum+ML+Researcher;%5B+OK+%5D+Guitarist+%E2%80%A2+Vocalist+%E2%80%A2+Band+%22Nirvana%22;%5B+RDY%5D+Open+to+SDE+%2F+Backend+roles+%E2%86%92" />
 
 </div>
 
@@ -22,23 +21,19 @@
 
 ---
 
-## `> cat about.txt`
+## `> about`
 
 ```
   Name     Saurabh Pramanik
   Role     B.Tech CSE @ JIIT Noida  ·  2022 – 2026
   Focus    Backend systems · Distributed infra · Applied AI
   Research Quantum Elman Neural Networks  →  IEEE (under review)
-  Other    Band "Nirvana" 🎸  ·  Guitar  ·  Philosophy
-
-  I build things that hold up under pressure.
-  Currently open to SDE / Backend Engineer roles.
-  → saurabh.work85@gmail.com
+  saurabh.work85@gmail.com
 ```
 
 ---
 
-## `> ls -la tech_stack/`
+## `tech_stack`
 
 <div align="center">
 
@@ -66,17 +61,12 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/IBM_Qiskit-6929C4?style=for-the-badge&logo=IBM&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Groq_LLM-FF6B00?style=for-the-badge&logo=groq&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 
 </div>
 
 ---
 
-## `> ./deploy --project=flagship`
+## `projects`
 
 <table>
 <tr>
@@ -172,7 +162,7 @@
 
 ---
 
-## `> cat research.log`
+## `research`
 
 <div align="center">
 
@@ -197,11 +187,9 @@ status:  ⟳ Under Review → IEEE Publication
 
 ---
 
-## `> git log --graph --oneline`
 
 <div align="center">
 
-<!-- 🏎️ CAR RACE TRACK — replaces the snake animation -->
 <img width="100%" src="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/output/github-contribution-grid-snake-dark.svg" style="display:none"/>
 
 <picture>
