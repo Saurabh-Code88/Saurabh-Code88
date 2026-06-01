@@ -1,6 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0500,30:1a0a00,60:2a1200,100:0d0500&height=280&section=header&text=Saurabh%20Pramanik&fontSize=62&fontColor=e8a045&animation=twinkling&fontAlignY=40&stroke=c47a20&strokeWidth=2&desc=Fullstack%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Build%20To%20Change&descAlignY=60&descSize=16&descColor=a07040" />
+<table border="0">
+<tr>
+<td width="55%" valign="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0500,30:1a0a00,60:2a1200,100:0d0500&height=180&section=header&text=Saurabh%20Pramanik&fontSize=52&fontColor=e8a045&animation=twinkling&fontAlignY=45&stroke=c47a20&strokeWidth=2&desc=Fullstack%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Build%20To%20Change&descAlignY=68&descSize=14&descColor=a07040"/>
+
+</td>
+<td width="45%" align="center" valign="center">
+
+<img src="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/main/assets/oogway.gif" width="220"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
