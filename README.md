@@ -8,7 +8,7 @@
 </td>
 <td width="40%" align="center" valign="center">
 
-<img src="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/main/assets/oogway.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/main/assets/oogway1.gif" width="320"/>
 
 </td>
 </tr>
