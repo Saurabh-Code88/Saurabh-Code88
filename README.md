@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a1a,60:000d1a,100:000000&height=280&section=header&text=SAURABH%20PRAMANIK&fontSize=62&fontColor=00fff5&animation=twinkling&fontAlignY=40&stroke=00fff5&strokeWidth=2&desc=Fullstack%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Build%20To%20Change&descAlignY=60&descSize=16&descColor=9ca3af" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a1a,60:000d1a,100:000000&height=280&section=header&text=Saurabh%20Pramanik&fontSize=62&fontColor=00fff5&animation=twinkling&fontAlignY=40&stroke=00fff5&strokeWidth=2&desc=Fullstack%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Build%20To%20Change&descAlignY=60&descSize=16&descColor=9ca3af" />
 
 </div>
 
@@ -50,8 +50,7 @@
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=8"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/IBM_Qiskit-6929C4?style=for-the-badge&logo=IBM&logoColor=white"/>
-&nbsp;
+
 
 </div>
 
@@ -65,7 +64,7 @@
 
 ### `ghostapply/` — Agentic Job Engine
 
-<img src="https://img.shields.io/badge/FLAGSHIP-00fff5?style=flat-square&labelColor=0a0a0a"/>
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square"/>
@@ -87,7 +86,7 @@
 
 ### `kritique/` — AI Code Review Platform
 
-<img src="https://img.shields.io/badge/PRODUCTION-f59e0b?style=flat-square&labelColor=0a0a0a"/>
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bull/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/SSE-gray?style=flat-square"/>
@@ -110,7 +109,7 @@
 
 ### `collabcode/` — Real-Time Editor
 
-<img src="https://img.shields.io/badge/SHIPPED-8b5cf6?style=flat-square&labelColor=0a0a0a"/>
+
 <img src="https://img.shields.io/badge/Yjs_CRDT-gray?style=flat-square"/>
 <img src="https://img.shields.io/badge/Judge0-1a1a2e?style=flat-square"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io"/>
@@ -131,7 +130,7 @@
 
 ### `url-shortener/` — Distributed Shortener
 
-<img src="https://img.shields.io/badge/ARCHIVED-gray?style=flat-square&labelColor=0a0a0a"/>
+
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
