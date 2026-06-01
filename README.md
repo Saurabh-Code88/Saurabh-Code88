@@ -208,7 +208,7 @@ status:  Under Review → IEEE Publication
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/PRAMANIKSAURABH/">
-  <img src="https://img.shields.io/badge/&#8203;-1a0a00?style=for-the-badge&logo=leetcode&logoColor=FFA116&logoSize=auto" width="52" height="52"/>
+  <img src="https://img.shields.io/badge/&#8203;-1a0a00?style=for-the-badge&logo=leetcode&logoSize=auto" width="52" height="52"/>
 </a>
 
 <br/><br/>
