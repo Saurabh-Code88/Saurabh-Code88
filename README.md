@@ -46,22 +46,22 @@
 
 <div align="center">
 
-<a href="https://github.com/Saurabh-Code88/ghostapply">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurabh-Code88&repo=ghostapply&bg_color=1a0a00&title_color=e8a045&icon_color=c47a20&text_color=a07040&border_color=3d1f00&hide_border=false" />
+<a href="https://github.com/Saurabh-Code88/GhostApply">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurabh-Code88&repo=GhostApply&bg_color=1a0a00&title_color=e8a045&icon_color=c47a20&text_color=a07040&border_color=3d1f00&hide_border=false" />
 </a>
 &nbsp;
-<a href="https://github.com/Saurabh-Code88/kritique">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurabh-Code88&repo=kritique&bg_color=1a0a00&title_color=e8a045&icon_color=c47a20&text_color=a07040&border_color=3d1f00&hide_border=false" />
+<a href="https://github.com/Saurabh-Code88/KRITIQUE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurabh-Code88&repo=KRITIQUE&bg_color=1a0a00&title_color=e8a045&icon_color=c47a20&text_color=a07040&border_color=3d1f00&hide_border=false" />
 </a>
 
 <br/>
 
-<a href="https://github.com/Saurabh-Code88/collabcode">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurabh-Code88&repo=collabcode&bg_color=1a0a00&title_color=e8a045&icon_color=c47a20&text_color=a07040&border_color=3d1f00&hide_border=false" />
+<a href="https://github.com/Saurabh-Code88/collab-code">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurabh-Code88&repo=collab-code&bg_color=1a0a00&title_color=e8a045&icon_color=c47a20&text_color=a07040&border_color=3d1f00&hide_border=false" />
 </a>
 &nbsp;
-<a href="https://github.com/Saurabh-Code88/url-shortener">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurabh-Code88&repo=url-shortener&bg_color=1a0a00&title_color=e8a045&icon_color=c47a20&text_color=a07040&border_color=3d1f00&hide_border=false" />
+<a href="https://github.com/Saurabh-Code88/Distributed-URL-shortener">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurabh-Code88&repo=Distributed-URL-shortener&bg_color=1a0a00&title_color=e8a045&icon_color=c47a20&text_color=a07040&border_color=3d1f00&hide_border=false" />
 </a>
 
 </div>
