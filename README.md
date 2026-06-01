@@ -25,8 +25,9 @@
 ## `tech_stack`
 
 <div align="center">
-
+<BR>
 **[ LANGUAGES ]**&nbsp;&nbsp;
+</BR>
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark&perline=8"/>
 
 **[ BACKEND · DATABASE · INFRA ]**&nbsp;&nbsp;
