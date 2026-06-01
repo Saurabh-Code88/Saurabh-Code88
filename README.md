@@ -224,7 +224,7 @@ status:  ⟳ Under Review → IEEE Publication
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00FFF5&center=true&vCenter=true&width=600&height=28&lines=%24+echo+%22Open+to+backend+%2F+SDE+roles+%F0%9F%9A%80%22;%24+echo+%22Let%27s+build+something+real+%E2%86%92%22"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=FFFF00&center=true&vCenter=true&width=600&height=28&lines=%24+echo+%22HOPE IS A GOOD THING"/>
 
 </div>
 
