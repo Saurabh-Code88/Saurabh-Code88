@@ -70,7 +70,7 @@ Autonomous job search engine that scrapes, ranks, and applies.
 · Multi-source: Wellfound, Naukri, LinkedIn
 ```
 
-[![View](https://img.shields.io/badge/VIEW_REPO-e8a045?style=for-the-badge&logo=github&logoColor=1a0a00)](https://github.com/Saurabh-Code88)
+
 
 </div>
 </td>
@@ -94,7 +94,6 @@ Async AI-powered code review with real-time streaming.
 · OpenAI-powered analysis engine
 ```
 
-[![View](https://img.shields.io/badge/VIEW_REPO-e8a045?style=for-the-badge&logo=github&logoColor=1a0a00)](https://github.com/Saurabh-Code88)
 
 </div>
 </td>
@@ -120,7 +119,7 @@ Collaborative coding environment with conflict-free sync.
 · WebSocket-based presence awareness
 ```
 
-[![View](https://img.shields.io/badge/VIEW_REPO-e8a045?style=for-the-badge&logo=github&logoColor=1a0a00)](https://github.com/Saurabh-Code88)
+
 
 </div>
 </td>
@@ -144,7 +143,6 @@ Cache-first distributed URL shortener at scale.
 · 100+ req/min under load
 ```
 
-[![View](https://img.shields.io/badge/VIEW_REPO-e8a045?style=for-the-badge&logo=github&logoColor=1a0a00)](https://github.com/Saurabh-Code88/url-shortener)
 
 </div>
 </td>
@@ -218,9 +216,7 @@ status:  Under Review → IEEE Publication
 
 
 </div>
-</div>
-
-<br/><br/>
+<div  align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=E8A045&center=true&vCenter=true&width=600&height=28&lines=HOPE+IS+A+GOOD+THING"/>
 
