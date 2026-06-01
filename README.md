@@ -195,26 +195,29 @@ status:  Under Review → IEEE Publication
 
 ---
 
+
+
 ## `> ping`
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/saurabh-pramanik-41a6211b1/">
-  <img src="https://img.shields.io/badge/&#8203;-1a0a00?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto" width="52" height="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/pramanik_codes">
-  <img src="https://img.shields.io/badge/&#8203;-1a0a00?style=for-the-badge&logo=x&logoColor=ffffff&logoSize=auto" width="52" height="52"/>
+  <img src="https://cdn.simpleicons.org/x/ffffff" width="36" height="36"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/PRAMANIKSAURABH/">
-  <img src="https://img.shields.io/badge/&#8203;-1a0a00?style=for-the-badge&logo=leetcode&logoSize=auto" width="52" height="52"/>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="38" height="38"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=E8A045&center=true&vCenter=true&width=600&height=28&lines=%24+echo+%22HOPE+IS+A+GOOD+THING%22"/>
 
+
+</div>
 </div>
 
 <br/><br/>
