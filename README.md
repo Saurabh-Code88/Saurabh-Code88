@@ -7,7 +7,6 @@
 <div align="center">
 
 
-</div align="center">
 <H3>NOIDA,INDIA</H3>
 </div>
 
