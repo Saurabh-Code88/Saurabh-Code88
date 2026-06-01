@@ -8,15 +8,7 @@
 
 
 </div>
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Saurabh-Code88&style=flat-square&color=00fff5&label=PROFILE+VIEWS&labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-SEEKING_SDE_ROLES-00fff5?style=flat-square&labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LOCATION-NOIDA%2C+IN-f59e0b?style=flat-square&labelColor=0d0d0d"/>
+NOIDA,INDIA
 </div>
 
 ---
