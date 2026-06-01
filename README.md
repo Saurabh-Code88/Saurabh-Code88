@@ -213,7 +213,7 @@ status:  Under Review → IEEE Publication
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=E8A045&center=true&vCenter=true&width=600&height=28&lines=%24+echo+%22HOPE+IS+A+GOOD+THING%22"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=E8A045&center=true&vCenter=true&width=600&height=28&lines=HOPE+IS+A+GOOD+THING"/>
 
 </div>
 
