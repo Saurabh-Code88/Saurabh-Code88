@@ -44,27 +44,108 @@
 
 ## `projects`
 
+<table>
+<tr>
+<td width="50%" valign="top">
 <div align="center">
 
-<a href="https://github.com/Saurabh-Code88/GhostApply">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurabh-Code88&repo=GhostApply&bg_color=1a0a00&title_color=e8a045&icon_color=c47a20&text_color=a07040&border_color=3d1f00&hide_border=false" />
-</a>
-&nbsp;
-<a href="https://github.com/Saurabh-Code88/KRITIQUE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurabh-Code88&repo=KRITIQUE&bg_color=1a0a00&title_color=e8a045&icon_color=c47a20&text_color=a07040&border_color=3d1f00&hide_border=false" />
-</a>
+### `ghostapply/`
+**Agentic Job Engine**
 
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-e8a045?style=flat-square&logo=nodedotjs&logoColor=1a0a00)
+![pgvector](https://img.shields.io/badge/pgvector-c47a20?style=flat-square&logo=postgresql&logoColor=1a0a00)
+![Playwright](https://img.shields.io/badge/Playwright-a05c10?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_Llama-7a3d00?style=flat-square&logoColor=white)
 
-<a href="https://github.com/Saurabh-Code88/collab-code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurabh-Code88&repo=collab-code&bg_color=1a0a00&title_color=e8a045&icon_color=c47a20&text_color=a07040&border_color=3d1f00&hide_border=false" />
-</a>
-&nbsp;
-<a href="https://github.com/Saurabh-Code88/Distributed-URL-shortener">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurabh-Code88&repo=Distributed-URL-shortener&bg_color=1a0a00&title_color=e8a045&icon_color=c47a20&text_color=a07040&border_color=3d1f00&hide_border=false" />
-</a>
+Autonomous job search engine that scrapes, ranks, and applies.
+
+```
+· Semantic job matching with pgvector embeddings
+· Playwright-powered form automation
+· Groq Llama for intelligent resume tailoring
+· Multi-source: Wellfound, Naukri, LinkedIn
+```
+
+[![View](https://img.shields.io/badge/VIEW_REPO-e8a045?style=for-the-badge&logo=github&logoColor=1a0a00)](https://github.com/Saurabh-Code88)
 
 </div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+
+### `kritique/`
+**AI Code Review Platform**
+
+![Node.js](https://img.shields.io/badge/Node.js-e8a045?style=flat-square&logo=nodedotjs&logoColor=1a0a00)
+![Redis](https://img.shields.io/badge/Bull%2FRedis-c47a20?style=flat-square&logo=redis&logoColor=1a0a00)
+![SSE](https://img.shields.io/badge/SSE-a05c10?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-7a3d00?style=flat-square&logoColor=white)
+
+Async AI-powered code review with real-time streaming.
+
+```
+· Bull/Redis job queue for async review pipeline
+· SSE streaming for real-time feedback delivery
+· Circuit breaker pattern for fault tolerance
+· OpenAI-powered analysis engine
+```
+
+[![View](https://img.shields.io/badge/VIEW_REPO-e8a045?style=for-the-badge&logo=github&logoColor=1a0a00)](https://github.com/Saurabh-Code88)
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+
+### `collabcode/`
+**Real-Time Collaborative Editor**
+
+![Yjs](https://img.shields.io/badge/Yjs_CRDT-e8a045?style=flat-square&logoColor=1a0a00)
+![Socket.io](https://img.shields.io/badge/Socket.io-c47a20?style=flat-square&logo=socketdotio&logoColor=1a0a00)
+![Judge0](https://img.shields.io/badge/Judge0-a05c10?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_AI-7a3d00?style=flat-square&logoColor=white)
+
+Collaborative coding environment with conflict-free sync.
+
+```
+· Yjs CRDT for zero-conflict real-time sync
+· Judge0 for multi-language code execution
+· Groq AI hints + dual Personal/Interview modes
+· WebSocket-based presence awareness
+```
+
+[![View](https://img.shields.io/badge/VIEW_REPO-e8a045?style=for-the-badge&logo=github&logoColor=1a0a00)](https://github.com/Saurabh-Code88)
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+
+### `url-shortener/`
+**Distributed URL Shortener**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-e8a045?style=flat-square&logo=postgresql&logoColor=1a0a00)
+![Redis](https://img.shields.io/badge/Redis-c47a20?style=flat-square&logo=redis&logoColor=1a0a00)
+![Prisma](https://img.shields.io/badge/Prisma-a05c10?style=flat-square&logo=prisma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-7a3d00?style=flat-square&logo=nodedotjs&logoColor=white)
+
+Cache-first distributed URL shortener at scale.
+
+```
+· Cache-first read with Redis write-through
+· IP-based rate limiting middleware
+· Stateless horizontal scaling design
+· 100+ req/min under load
+```
+
+[![View](https://img.shields.io/badge/VIEW_REPO-e8a045?style=for-the-badge&logo=github&logoColor=1a0a00)](https://github.com/Saurabh-Code88/url-shortener)
+
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -115,19 +196,15 @@ status:  Under Review → IEEE Publication
 <div align="center">
 
 <a href="https://www.linkedin.com/in/saurabh-pramanik-41a6211b1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://x.com/pramanik_codes">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/PRAMANIKSAURABH/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://github.com/Saurabh-Code88">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br/><br/>
