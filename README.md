@@ -26,17 +26,17 @@
 
 <div align="center">
 <BR>
-**[ LANGUAGES ]**&nbsp;&nbsp;
+[ LANGUAGES ]
 </BR>
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark&perline=8"/>
 
-**[ BACKEND · DATABASE · INFRA ]**&nbsp;&nbsp;
+[ BACKEND · DATABASE · INFRA ]
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,prisma,docker&theme=dark&perline=8"/>
 
-**[ FRONTEND · TOOLING ]**&nbsp;&nbsp;
+[ FRONTEND · TOOLING ]
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,git,linux,vscode&theme=dark&perline=8"/>
 
-**[ AI · QUANTUM ]**&nbsp;&nbsp;
+[ AI · QUANTUM ]
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=8"/>
 
 </div>
