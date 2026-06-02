@@ -14,11 +14,7 @@
 </tr>
 </table>
 
-<div align="center">
-<h3>NOIDA, INDIA</h3>
-</div>
 
----
 <div align="centre">
  <p><b>
  Hi , I am Saurabh<br>
@@ -26,7 +22,7 @@
  I Build AI enabled Fullstack systems<br> </b>
  </p>
 </div>
----
+
 
 ## `Tech_stack`
 
