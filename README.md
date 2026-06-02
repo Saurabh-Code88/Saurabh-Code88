@@ -3,7 +3,7 @@
 <tr>
 <td width="80%" valign="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0500,30:1a0a00,60:2a1200,100:0d0500&height=280&section=header&text=Hello!&fontSize=62&fontColor=e8a045&animation=twinkling&fontAlignY=45&stroke=c47a20&strokeWidth=2&desc=Fullstack%20Engineer%20%E2%80%A2%20AI%2FML&descAlignY=68&descSize=16&descColor=a07040"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0500,30:1a0a00,60:2a1200,100:0d0500&height=280&section=header&text=HELLO!&fontSize=62&fontColor=e8a045&animation=twinkling&fontAlignY=45&stroke=c47a20&strokeWidth=2&"/>
 
 </td>
 <td width="40%" align="center" valign="center">
@@ -22,7 +22,8 @@
 <div align="centre">
  <p><b>
  Hi , I am Saurabh
- CS student and a lifetime learner </b>
+ CS student and a lifetime learner
+ I Build AI enabled Fullstack systems </b>
  </p>
 </div>
 ---
