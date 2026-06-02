@@ -1,12 +1,12 @@
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td width="50%" valign="center">
+<td width="70%" valign="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0500,30:1a0a00,60:2a1200,100:0d0500&height=280&section=header&text=HELLO!&fontSize=62&fontColor=e8a045&animation=twinkling&fontAlignY=45&stroke=c47a20&strokeWidth=2&"/>
 
 </td>
-<td width="50%" align="center" valign="center">
+<td width="30%" align="center" valign="center">
 
 <img src="https://raw.githubusercontent.com/Saurabh-Code88/Saurabh-Code88/main/assets/oogway1.gif" width="320"/>
 
