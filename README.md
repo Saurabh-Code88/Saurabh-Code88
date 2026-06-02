@@ -161,7 +161,7 @@ Cache-first distributed URL shortener at scale.
 <img src="https://img.shields.io/badge/IEEE_PUBLICATION-UNDER_REVIEW-e8a045?style=for-the-badge&labelColor=1a0a00"/>
 
 </div>
-<div>
+
 ```yaml
 title:   "Benchmarking Quantum Elman Neural Networks for Stock Market Prediction"
 authors: [Saurabh Pramanik, Yashraj Jadam, Pavitra Sharma]
