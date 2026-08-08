@@ -180,22 +180,6 @@ status:  Under Review → IEEE Publication
 
 ---
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Code88&bg_color=0d0500&color=e8a045&line=c47a20&point=e8a045&area=true&area_color=c47a2015&hide_border=true&custom_title=COMMIT+HISTORY+2024-2025&radius=8" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Code88&bg_color=0d0500&color=e8a045&line=c47a20&point=e8a045&area=true&area_color=c47a2015&hide_border=true&custom_title=COMMIT+HISTORY+2024-2025&radius=8" width="100%"/>
-</picture>
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Saurabh-Code88&show_icons=true&hide_border=true&bg_color=0d0500&title_color=e8a045&icon_color=c47a20&text_color=a07040&ring_color=e8a045"/>
-&nbsp;
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-Code88&hide_border=true&background=0d0500&ring=e8a045&fire=c47a20&currStreakLabel=e8a045&sideLabels=a07040&dates=a07040&sideNums=e8d5b0&currStreakNum=e8d5b0"/>
-
-</div>
-
----
 
 
 
