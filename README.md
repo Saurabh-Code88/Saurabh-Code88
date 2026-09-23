@@ -19,7 +19,7 @@
 <div align="centre">
  <p><b>
  Hi , I am Saurabh<br>
- CS student and a lifetime learner<br>
+ CS Grad and a lifetime learner<br>
  I Build AI enabled Fullstack systems<br> </b>
  </p>
 </div>
