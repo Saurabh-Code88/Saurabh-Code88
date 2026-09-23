@@ -169,12 +169,11 @@ advisor: Dr. Himanshu Agrawal, JIIT Noida
 stack:   [IBM Qiskit, Microsoft Q#, React, Recharts, Python]
 
 findings:
-  - Evaluated QENN vs Classical ENN across 6 global stock indices
-  - Built React + Recharts visualization dashboard for results
-  - Comparative ML evaluation pipeline with NMSE benchmarking
-  - Deployed research-grade quantum circuit simulations
+  - Classical Elman baseline outperformed both quantum reproductions across all six global stock indices
+  - Bitwise-equivalent amplitude encoding across Qiskit and Q# did not guarantee equivalent optimization trajectories
+  - Delivered a React + Recharts dashboard to visualize comparative NMSE results across all six datasets
 
-status:  Under Review → IEEE Publication
+status:  Under Review — Elsevier ICMLDE 5.0, 2026
 
 ```
 
