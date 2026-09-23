@@ -163,17 +163,17 @@ Cache-first distributed URL shortener at scale.
 </div>
 
 ```yaml
-title:   "Benchmarking Quantum Elman Neural Networks for Stock Market Prediction"
-authors: [Saurabh Pramanik, Yashraj Jadam, Pavitra Sharma]
-advisor: Dr. Himanshu Agrawal, JIIT Noida
-stack:   [IBM Qiskit, Microsoft Q#, React, Recharts, Python]
+Title:   "Benchmarking Quantum Elman Neural Networks for Stock Market Prediction"
+Authors: [Saurabh Pramanik, Yashraj Jadam, Pavitra Sharma]
+Advisor: Dr. Himanshu Agrawal, JIIT Noida
+Stack:   [IBM Qiskit, Microsoft Q#, React, Recharts, Python]
 
 findings:
   - Classical Elman baseline outperformed both quantum reproductions across all six global stock indices
   - Bitwise-equivalent amplitude encoding across Qiskit and Q# did not guarantee equivalent optimization trajectories
   - Delivered a React + Recharts dashboard to visualize comparative NMSE results across all six datasets
 
-status:  Under Review — Elsevier ICMLDE 5.0, 2026
+Status:  Under Review — Elsevier ICMLDE 5.0, 2026
 
 ```
 
